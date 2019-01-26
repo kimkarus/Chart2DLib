@@ -1,0 +1,7 @@
+K:\Образование\Разработки\Программа\Chart2DLib\Chart2DLib\bin\Release\Chart2DLib.pdb
+K:\Образование\Разработки\Программа\Chart2DLib\Chart2DLib\obj\Release\ResolveAssemblyReference.cache
+K:\Образование\Разработки\Программа\Chart2DLib\Chart2DLib\obj\Release\Chart2DLib.Chart2D.resources
+K:\Образование\Разработки\Программа\Chart2DLib\Chart2DLib\obj\Release\Chart2DLib.Form1.resources
+K:\Образование\Разработки\Программа\Chart2DLib\Chart2DLib\obj\Release\Chart2DLib.pdb
+K:\Образование\Разработки\Программа\Chart2DLib\Chart2DLib\bin\Release\Chart2DLib.dll
+K:\Образование\Разработки\Программа\Chart2DLib\Chart2DLib\obj\Release\Chart2DLib.dll

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Chart2DLib">
+</Property><Property Name="Solution File" Value="K:\Образование\Разработки\Программа\Chart2DLib\Chart2DLib.sln">
+</Property><Property Name="User Options File" Value="K:\Образование\Разработки\Программа\Chart2DLib\Chart2DLib.suo">
+</Property><Property Name="Date" Value="19 октября 2013 г.">
+</Property><Property Name="Time" Value="0:12">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Chart2DLib.sln" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Chart2DLib.suo" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib.suo">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Chart2DLib.csproj" Description="Project file successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\Chart2DLib.csproj">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\BarStyle.cs" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\BarStyle.cs">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Chart Style.cs" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\Chart Style.cs">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Chart2D.cs" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\Chart2D.cs">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Chart2D.Designer.cs" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\Chart2D.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Data Collection.cs" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\Data Collection.cs">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Data Series.cs" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\Data Series.cs">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Form1.cs" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Form1.Designer.cs" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Legend.cs" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\Legend.cs">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Line Style.cs" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\Line Style.cs">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Program.cs" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\Program.cs">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Properties\AssemblyInfo.cs" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\SubChart.cs" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\SubChart.cs">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\SymbolStyle.cs" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\SymbolStyle.cs">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Chart2D.resx" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\Chart2D.resx">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Form1.resx" Description="File successfully backed up as K:\Образование\Разработки\Программа\Chart2DLib\Backup\Chart2DLib\Form1.resx">
+</Event><Event ErrorLevel="1" Project="Chart2DLib" Source="Chart2DLib\Chart2DLib.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Chart2DLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Chart2DLib" Source="Chart2DLib\Chart2DLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Chart2DLib.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Chart2DLib.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Chart2DLib" Source="Chart2DLib\Chart2DLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,16 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Chart2DLib\Chart2DLib\bin\Debug\Chart2DLib.dll
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Chart2DLib\Chart2DLib\bin\Debug\Chart2DLib.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Chart2DLib\Chart2DLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Chart2DLib\Chart2DLib\obj\Debug\Chart2DLib.Chart2D.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Chart2DLib\Chart2DLib\obj\Debug\Chart2DLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Chart2DLib\Chart2DLib\obj\Debug\Chart2DLib.dll
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Chart2DLib\Chart2DLib\obj\Debug\Chart2DLib.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Chart2DLib\Chart2DLib\obj\Debug\Chart2DLib.Form1.resources
+G:\Институт\Предметы\Предметы 2009 (8, 9-ые семестры)\Диплом\Распределения\Chart2DLib\Chart2DLib\bin\Debug\Chart2DLib.dll
+G:\Институт\Предметы\Предметы 2009 (8, 9-ые семестры)\Диплом\Распределения\Chart2DLib\Chart2DLib\bin\Debug\Chart2DLib.pdb
+G:\Институт\Предметы\Предметы 2009 (8, 9-ые семестры)\Диплом\Распределения\Chart2DLib\Chart2DLib\obj\Debug\ResolveAssemblyReference.cache
+G:\Институт\Предметы\Предметы 2009 (8, 9-ые семестры)\Диплом\Распределения\Chart2DLib\Chart2DLib\obj\Debug\Chart2DLib.Chart2D.resources
+G:\Институт\Предметы\Предметы 2009 (8, 9-ые семестры)\Диплом\Распределения\Chart2DLib\Chart2DLib\obj\Debug\Chart2DLib.Form1.resources
+G:\Институт\Предметы\Предметы 2009 (8, 9-ые семестры)\Диплом\Распределения\Chart2DLib\Chart2DLib\obj\Debug\Chart2DLib.csproj.GenerateResource.Cache
+G:\Институт\Предметы\Предметы 2009 (8, 9-ые семестры)\Диплом\Распределения\Chart2DLib\Chart2DLib\obj\Debug\Chart2DLib.dll
+G:\Институт\Предметы\Предметы 2009 (8, 9-ые семестры)\Диплом\Распределения\Chart2DLib\Chart2DLib\obj\Debug\Chart2DLib.pdb
